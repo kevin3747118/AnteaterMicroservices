@@ -1,0 +1,5 @@
+com/anteater/inventoryservice/model/Inventory.class
+com/anteater/inventoryservice/controller/InventoryController.class
+com/anteater/inventoryservice/InventoryServiceApplication.class
+com/anteater/inventoryservice/repository/InventoryRepository.class
+com/anteater/inventoryservice/service/InventoryService.class

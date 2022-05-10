@@ -1,0 +1,8 @@
+com/anteater/orderservice/repository/OrderRepository.class
+com/anteater/orderservice/dto/OrderRequest.class
+com/anteater/orderservice/dto/OrderLineItemsDto.class
+com/anteater/orderservice/controller/OrderController.class
+com/anteater/orderservice/service/OrderService.class
+com/anteater/orderservice/model/OrderLineItems.class
+com/anteater/orderservice/model/Order.class
+com/anteater/orderservice/OrderServiceApplication.class

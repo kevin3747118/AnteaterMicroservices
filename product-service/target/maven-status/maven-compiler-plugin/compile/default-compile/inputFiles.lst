@@ -1,0 +1,7 @@
+/Users/kevin/Desktop/microservices/anteaterMicroservices/product-service/src/main/java/com/example/demo/DemoApplication.java
+/Users/kevin/Desktop/microservices/anteaterMicroservices/product-service/src/main/java/com/example/demo/controller/ProductController.java
+/Users/kevin/Desktop/microservices/anteaterMicroservices/product-service/src/main/java/com/example/demo/dto/ProductResponse.java
+/Users/kevin/Desktop/microservices/anteaterMicroservices/product-service/src/main/java/com/example/demo/dto/ProductRequest.java
+/Users/kevin/Desktop/microservices/anteaterMicroservices/product-service/src/main/java/com/example/demo/repository/ProductRepository.java
+/Users/kevin/Desktop/microservices/anteaterMicroservices/product-service/src/main/java/com/example/demo/service/ProductService.java
+/Users/kevin/Desktop/microservices/anteaterMicroservices/product-service/src/main/java/com/example/demo/model/Product.java
